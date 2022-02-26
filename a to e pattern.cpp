@@ -5,7 +5,7 @@
 //abcde
  
 #include<stdio.h>
-main(){
+int main(){
 	int i,j;
 	for(i=97; i<=101; i++) {
 		for(j=97; j<=i; j++) {

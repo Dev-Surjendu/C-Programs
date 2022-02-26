@@ -5,7 +5,7 @@
 //1
 #include<stdio.h>
 
-int main(){
+main(){
 	int i,j;
 	for(i=5; i>=1; i--)
 	{
