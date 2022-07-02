@@ -1,9 +1,10 @@
 #include<stdio.h>
 #include <math.h>
 
-main(){
+int main(){
 	int num, temp, backup, digits = 0, cube = 1, start, mod, sum = 0;
 	
+	printf("Enter a number :: ")
 	scanf("%d", &num);
 	temp = backup = num;
 	
